@@ -2,3 +2,4 @@ Our first master commit line
 Our third master commit line
 Our third master commit line
 Our first feature1 commit line
+Our second feature1 commit line
