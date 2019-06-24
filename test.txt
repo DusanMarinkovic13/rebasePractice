@@ -7,3 +7,4 @@ fourth commit line
 third feature2 commit line
 fifth master commit line 
 sixth master commit line 
+first line on feature3
