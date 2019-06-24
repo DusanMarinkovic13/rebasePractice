@@ -1,1 +1,3 @@
 Our first master commit line
+Our second master commit line
+Our third master commit line
