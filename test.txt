@@ -6,3 +6,4 @@ Our second feature1 commit line
 fourth commit line
 third feature2 commit line
 fifth master commit line 
+sixth master commit line 
