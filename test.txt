@@ -10,3 +10,4 @@ sixth master commit line
 first line on feature3
 second line on feature3
 seventh line on master
+feat4 line one
