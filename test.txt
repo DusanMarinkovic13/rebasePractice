@@ -11,3 +11,5 @@ first line on feature3
 second line on feature3
 seventh line on master
 feat4 line one
+feat5 first line
+feat5 second line
